@@ -1,0 +1,32 @@
+body{
+	background-color: #1c1c1d;
+}
+a{
+	color: white;
+	font-size:25px;
+	display: inline-block;
+	transform: translate(1em, 0em);
+}
+h1{
+	color: white;
+}
+a-d{
+	color: white;
+	font-size:25px;
+	display: inline-block;
+	transform: translate(9em, 0em);
+	position:relative;
+	top:-125px;
+}
+font{
+	font-size:70px;
+	color: white;
+}
+span {
+	display: inline-block;
+	transform: translate(15em, 2em);
+}
+#img{
+	display: inline-block;
+	transform: translate(15em, 2em);
+  }
